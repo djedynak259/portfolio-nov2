@@ -1,5 +1,4 @@
 import './css/main.css'
-import './images/zack.jpg'
 // import Icon from './logoSample.png'
 
 // let component = () => {
